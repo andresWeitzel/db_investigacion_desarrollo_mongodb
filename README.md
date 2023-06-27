@@ -1,13 +1,7 @@
 # Proyectos I+D Nacionales 
-
-* Micro Base de Datos acerca de Proyectos de I+D Nacionales implementando MongoDB y MongoDB Compass.
-* Este conjunto de datos ha sido implementado para ser utilizado a través del Microservicio ApiRest_Inves_Des_NodeJs. 
-* Link Dataset público : https://datos.gob.ar/fa_IR/dataset/mincyt-proyectos-ciencia-tecnologia-e-innovacion
-
-
-</br>
- 
-* Repositorio Microfrontend App_MicroFront_InvDes_NodeJs :  https://github.com/andresWeitzel/App_MicroFront_InvDes_NodeJs
+Micro Base de Datos acerca de Proyectos de I+D Nacionales implementando MongoDB y MongoDB Compass. Este conjunto de datos ha sido implementado para ser utilizado a través del Microservicio ApiRest_Inves_Des_NodeJs. 
+* [Dataset público implementado](https://datos.gob.ar/fa_IR/dataset/mincyt-proyectos-ciencia-tecnologia-e-innovacion)
+* [Repositorio Microfrontend App_MicroFront_InvDes_NodeJs](https://github.com/andresWeitzel/App_MicroFront_InvDes_NodeJs)
 
 
 </br>
